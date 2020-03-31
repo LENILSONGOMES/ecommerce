@@ -1,5 +1,6 @@
 <?php 
 
+//nome do namespace
 namespace Hcode\DB;
 
 class Sql {
